@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1728057070 source:c:\users\amalj\oop\cmdr\oop\ubungen\ubung01\einfach_verkettete_liste\types.cpp
+	"types.h"
+	<iostream>
+	<cstdlib>
+
+1728057086 c:\users\amalj\oop\cmdr\oop\ubungen\ubung01\einfach_verkettete_liste\types.h
+
+1728057357 source:c:\users\amalj\oop\cmdr\oop\ubungen\ubung01\einfach_verkettete_liste\main.cpp
+	<iostream>
+	"types.h"
+
